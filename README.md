@@ -1,6 +1,5 @@
 # Demo (quasar-project)
-
-A Quasar Project
+Email Management Tool
 
 ## Install the dependencies
 ```bash
@@ -11,7 +10,6 @@ npm install
 ```bash
 nm run dev
 ```
-
 
 ### Build the app for production
 ```bash
